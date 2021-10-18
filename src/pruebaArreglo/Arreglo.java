@@ -6,7 +6,7 @@ public class Arreglo {
       
       
     public static void sumarLista(int enteros[]){
-     double suma=0;
+     double suma = 2;
      double promedio;
        for(int i=0; i<enteros.length; i++ ){
             suma += enteros[i];
